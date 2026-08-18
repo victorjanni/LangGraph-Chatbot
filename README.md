@@ -124,6 +124,6 @@ streamlit run streamlit_frontend.py
 
 ## 🤝 Connect with Me
 
-* **GitHub**: [github.com/your-username](https://github.com/your-username)
-* **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
+* **GitHub**: [github.com/your-username](https://github.com/victorjanni)
+* **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/victor-janni-0634b41a0/)
+
